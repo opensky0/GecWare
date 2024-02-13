@@ -10,4 +10,3 @@ Requires SMI (Sharp Mono Injector) and custom 1v1.dll to bypass "anti cheat" det
 - High fov<br>
 - Add speed (G)<br>
 - Remove speed (H)<br>
-- Spawn Sphere? (J)<br>
