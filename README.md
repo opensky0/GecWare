@@ -1,11 +1,4 @@
-deprecated and i will probably not be updating this
-
-
-
-
-
-
-
+<h1>deprecated and i will probably not be updating this</h1>
 
 
 
