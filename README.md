@@ -1,5 +1,20 @@
 deprecated and i will probably not be updating this
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A 1v1.lol Cheat/Helper
 Requires SMI (Sharp Mono Injector) and custom 1v1.dll to bypass "anti cheat" detection
 
